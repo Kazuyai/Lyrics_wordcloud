@@ -8,7 +8,7 @@ import time
 アーティスト番号を入力する
 '''
 # アーティスト番号
-ARTIST_NUM = 126
+ARTIST_NUM = 8377
 
 
 # サイトURL
